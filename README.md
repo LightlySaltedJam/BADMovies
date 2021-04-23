@@ -1,4 +1,14 @@
-# cinema-fe
+# BADMovies
+## description
+.
+.
+.
+.
+.
+.
+.
+.
+
 
 ## Project setup
 ```
