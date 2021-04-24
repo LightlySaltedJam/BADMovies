@@ -1,4 +1,4 @@
-# BADMovies
+# BADMovies - Work In Progress
 
 Ongoing project for a cinema webapp.
 
