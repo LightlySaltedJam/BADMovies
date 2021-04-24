@@ -1,6 +1,6 @@
 # BADMovies - Work In Progress
 
-Ongoing project for a cinema webapp.
+Ongoing project for a cinema webapp. Presently used as a practice project for advanced Vue.js concepts.
 
 ## Features
 
