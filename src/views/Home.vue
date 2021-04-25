@@ -1,5 +1,5 @@
 <template>
-  <div className=''>
+  <div class="">
     <LatestReleases></LatestReleases>
     <!--    <LatestReleases></LatestReleases>-->
     <!--    <LatestReleases></LatestReleases>-->
